@@ -258,7 +258,7 @@ pandas==2.2.0
 
 ## 👨‍💻 Author
 
-**Your Name**
+Dinesh KS
 
 ---
 
